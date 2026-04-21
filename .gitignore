@@ -16,6 +16,9 @@
 # Source material (large PDFs, textbooks, lectures)
 00 - sources/
 
+# Media attachments
+05 - Hide/Media & Files/
+
 # Keep these Obsidian config files committed:
 #   .obsidian/app.json
 #   .obsidian/appearance.json
