@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(**)",
+      "Edit(notes/**)",
+      "Write(notes/**)",
+      "Edit(anki/**)",
+      "Write(anki/**)",
+      "Edit(.claude/**)",
+      "Write(.claude/**)",
+      "Edit(CLAUDE.md)",
+      "Edit(README.md)"
+    ],
+    "deny": [
+      "Edit(highlights/**)",
+      "Write(highlights/**)",
+      "Edit(canvas/**)",
+      "Write(canvas/**)",
+      "Edit(sources/**)",
+      "Write(sources/**)",
+      "Bash(rm -rf *)",
+      "Bash(git push --force*)"
+    ]
+  }
+}
