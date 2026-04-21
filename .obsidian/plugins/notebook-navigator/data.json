@@ -3,7 +3,7 @@
     {
       "id": "default",
       "name": "Default",
-      "fileVisibility": "documents",
+      "fileVisibility": "supported",
       "propertyKeys": [],
       "hiddenFolders": [],
       "hiddenTags": [],
