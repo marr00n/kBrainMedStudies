@@ -1,4 +1,5 @@
 {
   "delayMs": 5000,
-  "capitalisationMode": "title"
+  "capitalisationMode": "title",
+  "excludedFiles": ["settings.json"]
 }
