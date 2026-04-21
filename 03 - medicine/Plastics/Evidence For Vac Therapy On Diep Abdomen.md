@@ -1,0 +1,1 @@
+![](../../05%20-%20Hide/Media%20&%20Files/Pasted%20Image%2020230620172519.png)

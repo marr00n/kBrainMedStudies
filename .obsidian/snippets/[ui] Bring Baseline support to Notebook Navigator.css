@@ -1,0 +1,40 @@
+/* Hide file navigation (desktop only) */
+@media screen and (min-width: 100px) {
+  .workspace-tab-header[aria-label="Files"],
+  .workspace-tab-header[aria-label="Search"],
+  .workspace-tab-header[aria-label="Notebook Navigator"],
+  .workspace-tab-header[aria-label="Bookmarks"] 
+  {
+    display: none !important;
+  }
+}
+
+/* Under Style Settings > Notebook Navigator > List Pane (Files) > List Pane Background */
+/* Set to #262626 */
+
+/* Style Settings Export for Notebook Navigator
+{
+  "notebook-navigator-style-settings@@nn-theme-navitem-icon-color@@dark": "#FFAC00",
+  "notebook-navigator-style-settings@@nn-theme-navitem-selected-bg@@dark": "#343434",
+  "notebook-navigator-style-settings@@nn-theme-navitem-selected-icon-color@@dark": "#FFAC00",
+  "notebook-navigator-style-settings@@nn-theme-navitem-selected-inactive-bg@@dark": "#343434",
+  "notebook-navigator-style-settings@@nn-theme-navitem-name-font-weight": 400,
+  "notebook-navigator-style-settings@@nn-theme-navitem-count-font-weight": 400,
+  "notebook-navigator-style-settings@@nn-theme-list-bg@@dark": "#262626",
+  "notebook-navigator-style-settings@@nn-theme-list-header-icon-color@@dark": "#FFAC00",
+  "notebook-navigator-style-settings@@nn-theme-file-name-color@@dark": "#DDDEDD",
+  "notebook-navigator-style-settings@@nn-theme-file-preview-color@@dark": "#9C9C9B",
+  "notebook-navigator-style-settings@@nn-theme-file-parent-color@@dark": "#9C9C9B",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-bg@@dark": "#9E8329",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-name-color@@dark": "#FFFFFF",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-preview-color@@dark": "#DDD0A9",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-date-color@@dark": "#F1ECE0",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-parent-color@@dark": "#D3C7A2",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-parent-color@@light": "#D3C7A2",
+  "notebook-navigator-style-settings@@nn-theme-file-selected-inactive-bg@@dark": "#B09026",
+  "notebook-navigator-style-settings@@nn-theme-list-group-header-font-weight": 700,
+  "notebook-navigator-style-settings@@nn-theme-file-name-font-weight": 600,
+  "notebook-navigator-style-settings@@nn-theme-file-preview-font-weight": 400,
+  "notebook-navigator-style-settings@@nn-theme-quick-actions-icon-color@@dark": "#FFAC00"
+}
+*/

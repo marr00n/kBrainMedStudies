@@ -1,0 +1,1 @@
+{"path":"zHide/Media & Files/Pasted Image 20240105222238.png","text":"t Shell: [bin/zsh Use $1 to refer to the file being processed. ocrmypdf —rotate-pages —--deskew ——skip-text “$1\" tmp.pdf trash \"$1\" mv tmp.pdf \"$1\"| K","libVersion":"0.3.2","langs":"eng"}

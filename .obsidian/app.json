@@ -1,0 +1,36 @@
+{
+  "attachmentFolderPath": "05 - Hide/Media & Files",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editing-toolbar:insert-callout",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:configure-toolbar"
+  ],
+  "userIgnoreFilters": [
+    "zHide/Templates/",
+    "4. Archive/Movie Database/"
+  ],
+  "propertiesInDocument": "visible",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "autoConvertHtml": true,
+  "deleteUnlinkedAttachments": "always"
+}

@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "director": "multitext",
+    "cast": "text",
+    "year": "date",
+    "genre": "text",
+    "length": "number",
+    "scoreImdb": "text",
+    "imdbId": "text",
+    "poster": "text",
+    "author": "multitext",
+    "age": "multitext",
+    "Interviewprep/story": "multitext",
+    "created": "text",
+    "Created Date": "text",
+    "date": "date",
+    "EventDate": "text",
+    "prompt-context": "multitext",
+    "Meeting Date": "date"
+  }
+}

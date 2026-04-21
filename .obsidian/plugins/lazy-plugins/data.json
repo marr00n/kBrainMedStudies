@@ -1,0 +1,98 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 3,
+    "longDelaySeconds": 10,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "autocapitalise": {
+        "startupType": "long"
+      },
+      "auto-note-mover": {
+        "startupType": "long"
+      },
+      "dataview": {
+        "startupType": "long"
+      },
+      "editing-toolbar": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "long"
+      },
+      "obsidian-link-embed": {
+        "startupType": "long"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "mononote": {
+        "startupType": "long"
+      },
+      "notebook-navigator": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "short"
+      },
+      "url-into-selection": {
+        "startupType": "short"
+      },
+      "obsidian-plugin-prettier": {
+        "startupType": "long"
+      },
+      "readwise-official": {
+        "startupType": "long"
+      },
+      "settings-search": {
+        "startupType": "long"
+      },
+      "obsidian-show-file-path": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "tag-wrangler": {
+        "startupType": "long"
+      },
+      "text-extractor": {
+        "startupType": "long"
+      },
+      "todo-sort": {
+        "startupType": "short"
+      },
+      "quick-explorer": {
+        "startupType": "long"
+      },
+      "obsidian-zotero-desktop-connector": {
+        "startupType": "long"
+      },
+      "virtual-linker": {
+        "startupType": "long"
+      },
+      "remove-newlines": {
+        "startupType": "long"
+      },
+      "janitor": {
+        "startupType": "long"
+      },
+      "remove-newlines-kiran": {
+        "startupType": "short"
+      },
+      "obsidian-linter": {
+        "startupType": "short"
+      },
+      "note-toolbar": {
+        "startupType": "short"
+      },
+      "auto-capitalise-file-names": {
+        "startupType": "short"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.movie-card {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  padding: 0.5rem;
+  width: 200px;
+  box-shadow: var(--shadow-s);
+  background-color: var(--background-primary);
+  line-height: 1.0; /* Tighten vertical spacing */
+  text-align:center;
+}
+
+.movie-card > * {
+  margin: 0.2rem 0; /* Reduce vertical spacing between elements */
+}
+
+.movie-card img {
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+
+/* Make all headings bold */
+.movie-card .heading,
+  font-weight: bold;
+}
+
+/* Make the title (h3) more visible */
+.movie-card h3.title {
+  font-size: 1.2rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Fix spelling of colour */
+.watched {
+  colour: var(--text-accent);
+  font-weight: bold;
+}
+
+.not-watched {
+  colour: var(--text-faint);
+  font-style: italic;
+}

@@ -1,0 +1,28 @@
+/* DESKTOP-ONLY STYLES */
+@media (hover: hover) and (pointer: fine) {
+
+/* Hide file navigation (desktop only) */
+@media screen and (min-width: 100px) {
+  .workspace-tab-header[aria-label="Files"],
+  .workspace-tab-header[aria-label="Search"],
+  .workspace-tab-header[aria-label="Notebook Navigator"],
+  .workspace-tab-header[aria-label="Bookmarks"] 
+  {
+    display: none !important;
+  }
+
+
+/* Decrease height of header that holds note name */
+body {
+  --header-height: 45px !important;
+}
+
+.view-header {
+ 	height: 40px !important;
+}
+
+}
+
+table mark {
+color: #000 !important;
+}

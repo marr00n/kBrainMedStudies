@@ -1,0 +1,1 @@
+https://dermnetnz.org/topics/warfarin-induced-skin-necrosis

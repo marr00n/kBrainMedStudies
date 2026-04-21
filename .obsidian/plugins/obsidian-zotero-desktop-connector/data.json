@@ -1,0 +1,33 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Research/Journal Articles",
+  "pdfExportImageDPI": 150,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "formatted-citation",
+      "cslStyle": "vancouver-brackets"
+    },
+    {
+      "name": "Bibliography",
+      "format": "formatted-citation",
+      "cslStyle": "vancouver"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Literature Note (Kiran)",
+      "outputPathTemplate": "Medicine/Journal Articles/@{{citekey}}.md",
+      "imageOutputPathTemplate": "Journal Articles/@{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "cslStyle": "chicago-fullnote-bibliography",
+      "templatePath": "zHide/Templates/Zotero Template 2.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldShowCiteSuggest": true
+}

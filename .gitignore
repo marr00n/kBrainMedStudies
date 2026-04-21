@@ -1,0 +1,24 @@
+# Obsidian workspace state (changes constantly, not worth versioning)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.swp
+.trash/
+
+# Source material (large PDFs, textbooks, lectures)
+00 - sources/
+
+# Keep these Obsidian config files committed:
+#   .obsidian/app.json
+#   .obsidian/appearance.json
+#   .obsidian/hotkeys.json
+#   .obsidian/community-plugins.json
+#   .obsidian/plugins/**/data.json

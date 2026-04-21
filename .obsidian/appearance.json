@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Cupertino",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "callouts",
+    "Floating Action Button",
+    "File & Folder icons",
+    "Images Adjustments",
+    "[ui] dataview cards",
+    "_[ui] Mods to Cupertino & basline theme",
+    "_[editor] My headings style v2",
+    "_[editor] My headings style",
+    "_[ui] Mods to Cupertino theme",
+    "[editor] Give Properties a background"
+  ],
+  "translucency": false,
+  "showRibbon": false,
+  "showViewHeader": true,
+  "interfaceFontFamily": "SF Pro Text"
+}

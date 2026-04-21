@@ -1,0 +1,76 @@
+/* ── Heading colours ── */
+
+/* Dark mode */
+.theme-dark {
+  --heading-h1-color: #ffffff;
+  --heading-h2-color: #ffffff;
+  --heading-h2-border: #555555;
+  --heading-h3-color: #2e80f2;
+  --heading-h4-color: #e5b567;
+  --heading-h5-color: #e83e3e;
+}
+
+/* Light mode */
+.theme-light {
+  --heading-h1-color: #1a1a1a;
+  --heading-h2-color: #1a1a1a;
+  --heading-h2-border: #cccccc;
+  --heading-h3-color: #1a6fd4;
+  --heading-h4-color: #b8862a;
+  --heading-h5-color: #cc2222;
+}
+
+/* ── Note title ── */
+.inline-title {
+/*  font-family: "Instrument Serif" !important; */
+    font-size: 1.802rem !important;
+/*  letter-spacing: -0.015em !important; */
+}
+
+/* ── H1 ── */
+.HyperMD-header-1, .markdown-preview-view h1 {
+  font-family: SF Pro;
+  font-size: 1.7rem !important;
+  color: var(--heading-h1-color) !important;
+}
+
+/* ── H2 ── */
+.HyperMD-header-2, .markdown-preview-view h2 {
+  font-family: SF Pro;
+  font-size: 1.5rem !important;
+  color: var(--heading-h2-color) !important;
+  border-bottom: 1.5px solid var(--heading-h2-border) !important;
+  width: 100%;
+  padding-bottom: 0.7em;
+  font-weight: 400;
+}
+
+/* ── H3 ── */
+.HyperMD-header-3, .markdown-preview-view h3 {
+  font-family: SF Pro;
+  font-size: 1.2rem !important;
+  color: var(--heading-h3-color) !important;
+}
+
+/* ── H4 ── */
+.HyperMD-header-4, .markdown-preview-view h4 {
+  font-family: SF Pro;
+  font-size: 1.1rem !important;
+  color: var(--heading-h4-color) !important;
+}
+
+/* ── H5 ── */
+.HyperMD-header-5, .markdown-preview-view h5 {
+  font-family: SF Pro;
+  font-size: 1rem !important;
+  color: var(--heading-h5-color) !important;
+}
+
+/* ── H6 ── */
+.HyperMD-header-6, .markdown-preview-view h6 {
+  font-family: SF Pro;
+  font-size: 0.9rem !important;
+  color: var(--text-muted) !important;
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+}
