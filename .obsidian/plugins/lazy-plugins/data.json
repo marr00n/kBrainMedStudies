@@ -95,6 +95,12 @@
       },
       "obsidian-git": {
         "startupType": "short"
+      },
+      "obsidian-annotator": {
+        "startupType": "short"
+      },
+      "pdf-plus": {
+        "startupType": "short"
       }
     }
   }

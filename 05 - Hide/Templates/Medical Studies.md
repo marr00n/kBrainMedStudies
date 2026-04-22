@@ -1,8 +1,7 @@
 ---
 Created Date: "{{date}}"
-organ: 
-specialty: 
-AutoNoteMover: disable
+organ:
+specialty:
 tags:
   - Medicine
   - knowledge-note

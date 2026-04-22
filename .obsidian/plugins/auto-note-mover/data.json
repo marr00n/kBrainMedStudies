@@ -4,51 +4,36 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "00 - MOC",
-      "tag": "",
-      "pattern": "/$?MOC$?/"
-    },
-    {
-      "folder": "03 - Personal Notes/AI Prompts",
-      "tag": "#ai-prompts",
+      "folder": "01 - highlights",
+      "tag": "#highlights",
       "pattern": ""
     },
     {
-      "folder": "01 - Anaesthetics",
+      "folder": "03 - anaesthetics",
       "tag": "#Anaesthetics",
       "pattern": ""
     },
     {
-      "folder": "Medicine",
+      "folder": "03 - medicine",
       "tag": "#Medicine",
       "pattern": ""
     },
     {
-      "folder": "Friends",
-      "tag": "#FriendCatchUp",
-      "pattern": ""
-    },
-    {
-      "folder": "02 - Collected Knowledge",
-      "tag": "#knowledge-note",
-      "pattern": ""
-    },
-    {
-      "folder": "03 - Personal Notes",
-      "tag": "#personal-note",
-      "pattern": ""
+      "folder": "MOC",
+      "tag": "",
+      "pattern": "/$?MOC$?/"
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "zHide"
+      "folder": "05 - Hide/Templates"
     },
     {
-      "folder": "zHide/Templates"
+      "folder": "05 - Hide/Media & Files"
     },
     {
-      "folder": ""
+      "folder": "05 - Hide"
     }
   ]
 }
