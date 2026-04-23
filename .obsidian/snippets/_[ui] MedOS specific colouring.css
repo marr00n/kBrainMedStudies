@@ -2,9 +2,13 @@
 	background-color: #3a2a1a !important;
 }
 */
+
+/* Very sharp transition through the middle
 .status-bar {
-	background-color: #3a2a1a !important;
-	background-image: linear-gradient(to right, #3a2a1a, #facc9d) !important;
+	background: linear-gradient(to right, #3a2a1a 30%, #facc9d 80%) !important;
+}*/
+.status-bar {
+	background: linear-gradient(to right, #6b4f2e 30%, #facc9d 80%) !important;
 }
 
 .workspace-tab-header.is-active.mod-active {
