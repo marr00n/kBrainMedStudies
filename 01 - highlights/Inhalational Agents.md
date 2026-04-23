@@ -86,3 +86,5 @@ Low cardiac output → less blood draining the alveolus → higher F_A → highe
 Then the vicious cycle: deeper anaesthesia → more cardiorespiratory depression (volatiles are negative inotropes and vasodilators) → even lower cardiac output → even higher F_A → deeper still.
 
 Anaesthetic Tension Cascade
+Full concentration at the anesthetic machine. It could be diluted by the exhaled gas, but most circuits will clear this away, meaning that the inspired concentration is close to the vaporiser's delivered concentration.
+Because the body is
