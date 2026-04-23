@@ -7,6 +7,7 @@ Based of: [The Best Way to Acquire Knowledge from Readings](https://medium.com/h
 - Open PDF chapter in Obsidian via PDF++
 - Highlight liberally on first pass — flag anything important, surprising, or connecting to prior knowledge
 - Capture highlights into a single markdown note per chapter
+- **Template**: [Highlights - (Topic) - (Source)](05%20-%20Hide/Templates/Highlights%20-%20(Topic)%20-%20(Source).md)
   - Title format: `Highlights — [Topic] — [Source]`
 - This is your literature card; selectivity comes later
 
