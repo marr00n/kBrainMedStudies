@@ -47,4 +47,22 @@ tags:
 > [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&selection=31,0,41,20)
 > > Without other medications, an anesthetic depth equivalent to 1.2 -1.3 of the MAC value of a volatile anesthetic agent is required for surgical procedures. The added 20 - 30% MAC depth of anesthesia will prevent movement in 95% of patients. 
 > 
+>
+
+![](05%20-%20Hide/Media%20&%20Files/AP%20Ch13%20Inhalational%20Anaesthetics.jpg)
+
+[AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&rect=40,451,403,591)
+
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&selection=67,0,75,8)
+> > The rapidity with which the anesthetic state is reached depends on how quickly the anesthetic inhalational agent reaches the patient’s brain to exert its partial pressure effects.
 > 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&selection=77,0,99,31)
+> > Factors determining how quickly the inhalational agent reaches the alveoli include: 1. The inspired concentration of anesthetic gas being delivered by the anesthetic machine (concentration effect). 2. The gas flow rate through the anesthetic machine. 3. The alveolar ventilation (VA); where VA = respiratory rate x tidal volume
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&selection=107,0,127,41&color=yellow)
+> > Factors determining how quickly the inhalational agent reaches the brain from the alveoli in order to establish anesthesia include: 1. The rate of blood flow to the brain. 2. The solubility of the inhalational agent in the brain (Fig. 13.1). 3. The difference in the arterial and venous concentrations of the inhalational agent.
+> 
+>
