@@ -220,7 +220,14 @@ Nitrous oxide.
 > > Opioid administration will decrease volatile MAC levels by 50 – 70% (see Chapter 14).
 
 Opioids are sparing because MAC is defined as a surgical stimulus which is not controlled by the brain but rather a dorsal horn spinal reflex. Given that opioids work on the MU receptor within the spine, you can blunt that pathway by a different means and so therefore it helps spare the use of the inhalational agent.
-- MAC is defined by a **spinal reflex endpoint** (movement to surgical stimulus), not a cortical one
-- Opioids act at **mu receptors in the dorsal horn** of the spinal cord
-- They blunt the **nociceptive afferent signal** feeding that reflex arc
-- So you're attacking the same endpoint via a **different mechanism and site**, meaning less volatile is needed to suppress the residual signal
+- MAC is defined by a spinal reflex endpoint (movement to surgical stimulus), not a cortical one
+- Opioids act at mu receptors in the dorsal horn of the spinal cord
+- They blunt the nociceptive afferent signal feeding that reflex arc
+- So you're attacking the same endpoint via a different mechanism and site, meaning less volatile is needed to suppress the residual signal
+
+The **Meyer-Overton Rule** states that the anesthetic potency of a gas is directly proportional to its lipid (oil) solubility.
+- Higher Oil:Gas Partition Coefficient → Higher lipid solubility.
+- Higher Lipid Solubility → Higher potency.
+- Higher Potency → Lower MAC.
+
+blood:gas solubility governs speed of onset and offset
