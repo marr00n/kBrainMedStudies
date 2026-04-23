@@ -13,7 +13,9 @@
     "_[editor] My headings style v2",
     "_[editor] My headings style",
     "_[ui] Mods to Cupertino theme",
-    "[editor] Give Properties a background"
+    "[editor] Give Properties a background",
+    "_[editor] Give Properties a background",
+    "_[ui] Vault specific colouring"
   ],
   "translucency": false,
   "showRibbon": false,
