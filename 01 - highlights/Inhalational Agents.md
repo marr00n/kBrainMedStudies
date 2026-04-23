@@ -174,3 +174,44 @@ Rule of 24: **Fresh gas flow (L/min) × inspired desflurane concentration (%) <
 The product captures how quickly desflurane is being delivered into the circuit — high flow × high concentration = rapid wash-in = sympathetic surge risk.
 
  ![](../05%20-%20Hide/Media%20&%20Files/Image-3.png)
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=80,24,104,1)
+> > In the presence of dry desiccated CO2 absorbers, desflurane (and to a lesser extent isoflurane and sevoflurane) can degrade to form carbon monoxide (CO).8 Carboxyhemoglobin (COHb) poisoning has been reported following CO2 absorber desiccation in the presence of desflurane.9
+> 
+>
+
+Nitrous oxide.
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=131,0,138,35)
+> > Nitrous oxide is an inert, inorganic, colorless, tasteless, and odorless gas. It has a rapid onset and a quick recovery of 3 - 10 minutes due to its low solubility in blood.
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=138,36,144,42)
+> > Its low potency (MAC = 104%) limits the amount that can be administered and its usefulness when high concentrations of oxygen are required
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=157,0,182,39)
+> > Nitrous oxide is 34 times more soluble than nitrogen. This property results in three special anesthetic phenomena. At the beginning of anesthesia, N2O leaves the alveoli much faster than nitrogen can leave the body tissues to fill the space left by N2O. The result is an increase in the concentration of other gases in the alveoli (oxygen and other inhalational agents). This increase in concentration speeds the onset in inhalational anesthetic effect and is referred to as the second gas effect
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=184,0,218,7)
+> > Diffusion hypoxia may result at the end of the anesthetic. As nitrous oxide is discontinued, the body stores of nitrous oxide are released and flood the alveoli, diluting the oxygen present in the alveoli. When only room air is administered at the end of the anesthetic, the dilution of oxygen may be sufficient to create a hypoxic mixture and result in hypoxemia. Other factors contributing to hypoxemia at the end of anesthesia include respiratory depression due to anesthetic agents, residual neuromuscular blockade, and pain with splinted respirations. The administration of 100% oxygen at the end of an anesthetic may avoid hypoxemia resulting from any of these causes.
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.8](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=8&selection=4,0,29,22)
+> > Finally, closed air spaces will expand in the presence of nitrous oxide due to the differences in the solubility of nitrogen and nitrous oxide. With the administration of 66% N2O, a closed air space will expand twofold in volume over a period of approximately 15 minutes. For this reason, N2O is contraindicated in patients with a pneumothorax, closed loop bowel obstruction, air embolism, or any other closed air space in the body.
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.8](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=8&selection=36,0,46,4)
+> > As the recommended minimum concentration of oxygen delivered during general anesthesia is 30%, the maximum concentration of N2O that can be used is 70% (approximately 0.7 MAC)
+> 
+>
+
+> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.8](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=8&selection=62,27,68,1)
+> > Sevoflurane, desflurane, and isoflurane are all contraindicated in patients with malignant hyperthermia.
+> 
+> 
