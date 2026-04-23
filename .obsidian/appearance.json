@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#d3873c",
   "theme": "moonstone",
   "cssTheme": "Cupertino",
   "baseFontSize": 16,
@@ -14,7 +14,6 @@
     "_[editor] My headings style",
     "_[ui] Mods to Cupertino theme",
     "[editor] Give Properties a background",
-    "_[editor] Give Properties a background",
     "_[ui] Vault specific colouring"
   ],
   "translucency": false,

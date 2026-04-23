@@ -19,8 +19,8 @@
 - Midodrine action and post op protocol
 - GLP1 periop management
 - 4 phases of anaesthesia
-- RSI ANORIGINAL LADY![](./05%20-%20Hide/Media%20&%20Files/Image%2010.jpg)
-![](./05%20-%20Hide/Media%20&%20Files/Image%209.jpg)
+- RSI ANORIGINAL LADY![](../05%20-%20Hide/Media%20&%20Files/Image%2010.jpg)
+![](../05%20-%20Hide/Media%20&%20Files/Image%209.jpg)
 - [ ] Drug concentration formulations
 - [ ] Common anaesthetic drugs
 - [ ] Airway assessment

@@ -1,9 +1,15 @@
 .status-bar {
-  background-color: #B8A5D9 !important;
+  background-color: #3a2a1a !important;
 }
 
 
 /*
+320d3b
+2a1f33 - fav
+251c2e - feels too dark
+332840 - nice
+3a2d47 - great colour, but missing the 
+
 Looking at your theme — very clean, white and light grey, minimal Mac aesthetic — you want colours light enough to maintain contrast with `#262626` text, but with enough chroma to feel intentional rather than accidental. Based on the purple tag accent already in the theme:
 
 1. **`#E8F0FB`** — icy blue. Clean and clinical, suits the anaesthetics context well.
