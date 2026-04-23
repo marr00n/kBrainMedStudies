@@ -1,6 +1,7 @@
 - [Quick Reference Handbook](https://anaesthetists.org/Portals/0/PDFs/QRH/QRH_complete_June_2023.pdf?ver=2023-06-23-141011-603) Materials
 - Changes to airway changes in pregnancy and labour
 - morphine 0.05 to 0.1mg per kg
+- [Full tour of the anesthesia machine](https://www.youtube.com/watch?v=P8mijzo5g-Y)
 - Driperidol dosing. 0.625-2.5mg IV
 - ergonetrine 500 microg IM
 - Epidural Morphine 3mg vs 50–75 mcg fentanyl

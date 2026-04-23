@@ -6,7 +6,12 @@ tags:
   - Anaesthetics
   - Medicine
 ---
-Inhalational anaesthetic agents 
+Inhalational anaesthetic agents are quantified based on the concentration provided. This is expressed as a percentage of the proportion of the anesthetic gas to the total gas mixture volume.
+
+Modern anesthetic machines have very precise vaporizers that can deliver accurate concentrations to the patient.
+
+It is typically measured in % concentration.
+
 > [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.2](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=2&selection=22,15,26,25)
 > > Inhalational agents on the other hand are administered according to a specific concentration.
 > 
