@@ -1,5 +1,10 @@
+/*.status-bar {
+	background-color: #3a2a1a !important;
+}
+*/
 .status-bar {
 	background-color: #3a2a1a !important;
+	background-image: linear-gradient(to right, #3a2a1a, #facc9d) !important;
 }
 
 .workspace-tab-header.is-active.mod-active {
