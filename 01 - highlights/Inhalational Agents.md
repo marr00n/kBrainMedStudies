@@ -66,3 +66,14 @@ tags:
 > > Factors determining how quickly the inhalational agent reaches the brain from the alveoli in order to establish anesthesia include: 1. The rate of blood flow to the brain. 2. The solubility of the inhalational agent in the brain (Fig. 13.1). 3. The difference in the arterial and venous concentrations of the inhalational agent.
 > 
 >
+
+F<sub>A</sub>/F<sub>I</sub> ratio
+- F<sub>I</sub> = constant (what the machine delivers)
+- F<sub>A</sub> = variable (what actually builds up in the alveolus)
+	- FA tracks the brain concentration as we assume Alveolus conc ⇌ Arterial blood conc ⇌ Brain conc. Very rapid equilibration between them.
+- Soluble gas → blood drains the alveolus → F<sub>A</sub> stays low → low ratio → low curve
+- Insoluble gas → blood leaves it alone → F<sub>A</sub> builds up → high ratio → high curve
+
+![](05%20-%20Hide/Media%20&%20Files/AP%20Ch13%20Inhalational%20Anaesthetics%201.jpg)
+
+[AP Ch13 Inhalational Anaesthetics, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=4&rect=44,300,386,593)
