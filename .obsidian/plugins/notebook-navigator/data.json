@@ -411,7 +411,13 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "03 - anaesthetics/Anaesthetic What To Study List.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    }
+  },
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},

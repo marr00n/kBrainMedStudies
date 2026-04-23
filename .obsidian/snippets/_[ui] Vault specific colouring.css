@@ -1,22 +1,7 @@
 .status-bar {
-  background-color: #3a2a1a !important;
+	background-color: #3a2a1a !important;
 }
 
-
-/*
-320d3b
-2a1f33 - fav
-251c2e - feels too dark
-332840 - nice
-3a2d47 - great colour, but missing the 
-
-Looking at your theme — very clean, white and light grey, minimal Mac aesthetic — you want colours light enough to maintain contrast with `#262626` text, but with enough chroma to feel intentional rather than accidental. Based on the purple tag accent already in the theme:
-
-1. **`#E8F0FB`** — icy blue. Clean and clinical, suits the anaesthetics context well.
-2. **`#EDE8F5`** — soft lavender. Echoes the purple `highlights` tag already in your theme, so it ties together visually.
-3. **`#E8F5EE`** — sage mint. Calm, slightly medical, works well against the white canvas.
-4. **`#FDF0E8`** — warm sand. Adds warmth without feeling out of place in the otherwise cool palette.
-5. **`#F5EBF0`** — dusty rose. Subtle, slightly warmer, creates a clear vault identity cue if you want a distinct feel from `/anaes`.
-
-Of these, `#EDE8F5` is probably the most cohesive pick given the purple already present in your UI — it would feel like a deliberate design choice rather than a random tint.
-*/
+.workspace-tab-header.is-active.mod-active {
+  background-color: #facc9d !important;
+}
