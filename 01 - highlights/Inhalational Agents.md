@@ -43,6 +43,7 @@ tags:
 > > The MAC value of an inhalational agent is the alveolar concentration in oxygen at one atmosphere of pressure that will prevent 50% of the subjects from making a purposeful movement in response to a painful stimulus such as a surgical incision. 
 > 
 >
+![](../05%20-%20Hide/Media%20&%20Files/Image.png)
 
 > [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.3](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=3&selection=31,0,41,20)
 > > Without other medications, an anesthetic depth equivalent to 1.2 -1.3 of the MAC value of a volatile anesthetic agent is required for surgical procedures. The added 20 - 30% MAC depth of anesthesia will prevent movement in 95% of patients. 
@@ -85,6 +86,91 @@ Low cardiac output → less blood draining the alveolus → higher F_A → highe
 
 Then the vicious cycle: deeper anaesthesia → more cardiorespiratory depression (volatiles are negative inotropes and vasodilators) → even lower cardiac output → even higher F_A → deeper still.
 
-Anaesthetic Tension Cascade
+**Anaesthetic Tension Cascade**
 Full concentration at the anesthetic machine. It could be diluted by the exhaled gas, but most circuits will clear this away, meaning that the inspired concentration is close to the vaporiser's delivered concentration.
-Because the body is
+Because the blood is absorbing the gas, the alveolar concentration will remain below the inspired concentration. However, the brain concentration will approach that of the alveolar concentration within 8-10 minutes of any change. Therefore the exhaled gas concentration is a good estimate of the brain concentration. 
+**NB:**  that many texts will use the word tension interchangeably with concentration, which is better described as partial pressure.
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=4&selection=47,1,88,45&color=yellow)
+> > he cascade of anesthetic partial pressure starts at the vaporizer. The gas from the vaporizer is diluted by exhaled gas to form the inspired gas. With a circle system, a fresh gas flow of 4 Ȃ 5 L∙min-1 will raise the inspired anesthetic tension (concentration) close to the vaporizer’s delivered concentration (Fig. 13.2). As the body continues to take up the inhaled anesthetic gas, the alveolar anesthetic tension will remain below the inspired anesthetic tension for many hours. The brain is considered the final step in the anesthetic cascade. The brain tension will approach the alveolar tension within 8 to 10 minutes of any change. Monitoring the alveolar end-tidal concentration of the inhaled anesthetic agent provides
+
+ISOFLURANE
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.5](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=5&selection=20,7,24,31&color=yellow)
+> > Isoflurane has a MAC value of 1.16%, and it has a pungent odor and a tendency to irritate the patient’s airway. 
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.5](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=5&selection=26,12,32,21&color=yellow)
+> > cause patients to cough and hold their breath when isoflurane is administered too quickly; hence, it is generally not used to induce anesthesia 
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.5](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=5&selection=36,1,52,16&color=yellow)
+> > or neurosurgical procedures as it reduces cerebral metabolic rate and causes minimal change in cerebral blood flow and intracranial pressure. Isoflurane has minimal depressant effects on the myocardium. The reduction in blood pressure produced by isoflurane is accompanied by a similar reduction in vascular resistance such that there is little change in cardiac output. 
+
+SEVOFLURANE
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=51,16,55,37&color=yellow)
+> > sevoflurane does not have an unpleasant smell and is well tolerated for inhalational induction of anesthesia.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=55,38,65,9&color=yellow)
+> > With the use of high concentrations of sevoflurane (i.e., inspired concentrations of 5 – 8%), a patient can be taken from an awake state to a sleep state with as little as one or two vital capacity breaths. 
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=65,9,72,46&color=yellow)
+> > An anesthetic depth to permit laryngeal mask placement and tracheal intubation can be achieved after three to five minutes of breathing a high concentration of sevoflurane.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=74,1,82,40&color=yellow)
+> > evoflurane produces a dose-related reduction in blood pressure comparable with isoflurane and desflurane. This occurs due to a decrease in systemic vascular resistance without a corresponding decrease in cardiac output
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=84,0,93,48&color=yellow)
+> > Sevoflurane is a potent bronchodilator and has been used in the treatment of patients with status asthmaticus who are resistant to medical therapy and require controlled ventilation.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=95,0,100,7&color=yellow)
+> > Sevoflurane, isoflurane, and desflurane all produce uterine relaxation in a dose-dependent manner.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=108,6,117,20&color=yellow)
+> > . Postoperative nausea and vomiting after sevoflurane is comparable with isoflurane and desflurane but greater than that associated with a total intravenous anesthetic (TIVA) technique using propofol
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=120,0,126,18&color=yellow)
+> > Sevoflurane degrades to compound A in the presence of a carbon dioxide absorber. 
+
+
+DESFLUROANE
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=141,0,152,1&color=yellow)
+> > Desflurane has the most rapid onset and offset of anesthetic effect compared with sevoflurane or isoflurane, and it offers the shortest time to emergence and orientation following anesthesia.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=154,0,160,26&color=yellow)
+> > Desflurane is the most pungent of the inhalational anesthetics and is not suitable for inhalational induction due to its irritating properties.
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=6&selection=168,33,190,15&color=yellow)
+> > A marked activation of the sympathetic nervous system may occur when desflurane concentrations are increased rapidly or high concentrations are used. This is manifest as tachycardia and hypertension (and occasionally myocardial ischemia) and is associated with a surge in plasma norepinephrine, epinephrine, and anti-diuretic (ADH) levels.5 
+> 
+>
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=7&selection=10,0,25,12&color=yellow)
+> > The “Rule of 24” states that the risk of an adverse sympathetic surge associated with desflurane is reduced when the product of the carrier gas flow rate (fresh gas flow) multiplied by the inspired concentration of desflurane is less than 24
+
+Rule of 24: **Fresh gas flow (L/min) × inspired desflurane concentration (%) < 24**
+The product captures how quickly desflurane is being delivered into the circuit — high flow × high concentration = rapid wash-in = sympathetic surge risk.
+
+ ![](../05%20-%20Hide/Media%20&%20Files/Image-3.png)
