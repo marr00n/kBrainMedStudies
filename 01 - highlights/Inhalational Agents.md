@@ -77,3 +77,12 @@ F<sub>A</sub>/F<sub>I</sub> ratio
 ![](05%20-%20Hide/Media%20&%20Files/AP%20Ch13%20Inhalational%20Anaesthetics%201.jpg)
 
 [AP Ch13 Inhalational Anaesthetics, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=4&rect=44,300,386,593)
+
+> [!PDF|yellow] [AP Ch13 Inhalational Anaesthetics, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=4&selection=32,0,45,7&color=yellow)
+> > Patients with low cardiac output states (e.g., shock states) may experience a rapid rise in the alveolar partial pressure of an inhalational anesthetic agent. This will result in a more rapid onset of anesthesia with possible exaggerated cardiorespiratory depressant effects
+
+Low cardiac output → less blood draining the alveolus → higher F_A → higher arterial partial pressure → higher partial pressure gradient into the brain → deeper anaesthesia than expected at any given vaporiser setting.
+
+Then the vicious cycle: deeper anaesthesia → more cardiorespiratory depression (volatiles are negative inotropes and vasodilators) → even lower cardiac output → even higher F_A → deeper still.
+
+Anaesthetic Tension Cascade
