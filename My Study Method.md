@@ -1,4 +1,5 @@
 Based of: [The Best Way to Acquire Knowledge from Readings](https://medium.com/heptabase?source=post_page---publication_nav-7c6e8629fd5e-abf9357814d1---------------------------------------)
+Claude Discussion: [Claude](https://claude.ai/chat/6ef015e4-ca6c-4394-b0de-9818b9fd70bc)
 ## Core Principle
 - Deep understanding comes from the *process* of deconstructing, atomising, and re-describing knowledge — not from producing polished notes
 - Optimise for time spent thinking, not for pretty output
