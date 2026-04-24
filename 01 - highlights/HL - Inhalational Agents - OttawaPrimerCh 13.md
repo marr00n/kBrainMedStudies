@@ -34,10 +34,7 @@ tags:
 > 
 >
 
-> [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.2](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=2&selection=79,0,115,15)
-> > A volume expansion theory1 or “Mullins critical volume hypothesis”. Volatile anesthetics dissolve into lipid cell membranes in the CNS and may distort sodium channels required for synaptic transmission. 2. Neurotransmitter interference. Volatile anesthetics may act at the presynaptic and postsynaptic receptors inhibiting release, reuptake, or postsynaptic binding and thereby altering synaptic transmission. 3. Activation of gamma-aminobutyric acid (GABA) receptors and inhibition of calcium channels and or glutamate channels, resulting in inhibition of the release of neurotransmitters in the CNS
-> 
->
+
 
 > [!PDF|] [AP Ch13 Inhalational Anaesthetics, p.2](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch13%20Inhalational%20Anaesthetics.pdf#page=2&selection=121,0,133,24)
 > > The MAC value of an inhalational agent is the alveolar concentration in oxygen at one atmosphere of pressure that will prevent 50% of the subjects from making a purposeful movement in response to a painful stimulus such as a surgical incision. 
