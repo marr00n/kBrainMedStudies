@@ -1,0 +1,11 @@
+#separator:Semicolon
+#html:true
+#tags column:3
+#columns:Front;Back;Tags
+#notetype:_Basic - DecEyeStrain
+<b>Inhalational agents</b> — 3 factors determining speed of alveolar delivery?;<ul><li>Inspired concentration of gas</li><li>Gas flow rate through the machine</li><li>Alveolar ventilation (respiratory rate × tidal volume)</li></ul>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+<b>Inhalational agents</b> — 3 factors determining speed of alveolar-brain equilibration?;<ul><li>Rate of blood flow to the brain</li><li>Solubility of the agent (blood:gas coefficient)</li><li>Arteriovenous concentration difference of the agent</li></ul>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+<b>Low cardiac output</b> — explain the vicious cycle with volatile anaesthetics.;↓ CO → ↓ alveolar drainage → ↑ FA → ↑ arterial partial pressure → <u>deeper anaesthesia</u> → ↑ cardiovascular depression (negative inotropy + vasodilation) → ↓ CO further → ↑ FA → deeper still.<br><br><i>Reduce vaporiser setting proactively in shocked or low-CO patients.</i>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+<b>Second gas effect</b> — mechanism and clinical relevance?;N2O is 34× more soluble in blood than nitrogen.<br>On induction: N2O rapidly leaves the alveolus into blood → N2 cannot leave tissues quickly enough to fill the space → residual alveolar gases (O2 and co-administered volatiles) become <u>concentrated</u> → ↑ FA of co-agent → faster onset of inhalational effect.;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+<b>Diffusion hypoxia</b> — mechanism and prevention?;On N2O discontinuation: body stores of N2O flood back into alveoli → displaces alveolar O2 → risk of hypoxaemia.<br><br><u>Prevention:</u> Administer 100% O2 at end of anaesthesia.;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+<b>Nitrous oxide (N2O)</b> — contraindications?;"<ul><li>Pneumothorax</li><li>Closed loop bowel obstruction</li><li>Air embolism</li><li>Intracranial air</li><li>Middle ear / sinus surgery <i>(relative)</i></li><li>Vitreoretinal gas tamponade</li></ul><i>All involve closed air space expansion.</i>";anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27

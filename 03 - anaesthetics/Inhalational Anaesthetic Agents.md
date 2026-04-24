@@ -1,6 +1,13 @@
+---
+ankicards: "true"
+---
+*Source: [Ottawa Anaesthetic Primer, Chapter 13 — Inhalational Anaesthetics](../01%20-%20highlights/HL%20-%20Inhalational%20Agents%20-%20Ottawaprimerch%2013.md)*
+
+---
+
 Volatile agents (sevoflurane, desflurane, isoflurane) are synthetic, colourless, non-flammable liquids administered as vapour via calibrated vaporisers. They are the most widely used agents for maintenance of GA. 
 
-Nitrous oxide (N2O) is a separate inorganic gas, administered as a supplement. All act by poorly understood, likely multifactorial mechanisms; potency correlates with lipid solubility (Meyer-Overton rule).
+Nitrous oxide (N<sub>2</sub>O) is a separate inorganic gas, administered as a supplement. All act by poorly understood, likely multifactorial mechanisms; potency correlates with lipid solubility (Meyer-Overton rule).
 
 ## Pharmacokinetic Principles
 
@@ -27,6 +34,17 @@ Nitrous oxide (N2O) is a separate inorganic gas, administered as a supplement. A
  - Alveolar tension remains below inspired tension for many hours (ongoing uptake by blood).
  - Brain tension approaches alveolar tension within 8–10min of any change.
  - **End-tidal concentration is therefore a reliable surrogate for brain concentration.**
+
+#### Factors affecting tension cascade
+Factors affecting how quickly the inhalational agent reaches the alveoli:
+1. The inspired concentration of gas.
+2. The gas flow rate through the machine.
+3. The alveolar ventilation (respiratory rate x tidal volume).
+
+Factors that determine how quickly the alveolar equilibrates with the brain include:
+1. The rate of blood flow to the brain.
+2. The solubility of the inhalational agent.
+3. The difference in the arterial and venous concentrations of the inhalational agent.
 
 ### Low Cardiac Output State
 
@@ -104,7 +122,3 @@ Nitrous oxide (N2O) is a separate inorganic gas, administered as a supplement. A
 | Compound A | Sevoflurane | Formed with CO2 absorbers at low FGF; avoid prolonged low-flow sevoflurane |
 | Uterine relaxation | Isoflurane, sevoflurane, desflurane | Dose-dependent; relevant in obstetrics and uterine surgery |
 | MAC-sparing | All volatiles | Opioids ↓ MAC 50–70%; N2O contributes additively to MAC |
-
----
-
-*Source: Ottawa Anaesthetic Primer, Chapter 13 — Inhalational Anaesthetics*

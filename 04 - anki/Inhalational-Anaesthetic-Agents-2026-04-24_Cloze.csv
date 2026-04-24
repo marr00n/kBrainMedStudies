@@ -1,0 +1,36 @@
+#separator:Semicolon
+#html:true
+#tags column:3
+#columns:Text;Extra;Tags
+#notetype:_Cloze - DecEyeStrain
+<b>MAC (minimum alveolar concentration)</b> is the alveolar concentration preventing purposeful movement to a surgical stimulus in {{c1::<u>50%</u>}} of subjects, measured in O2 at {{c2::<u>1 atmosphere</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.50
+<b>MAC required for surgery</b> without adjuncts is {{c1::<u>1.2–1.3 MAC</u>}}, which prevents movement in approximately {{c2::<u>95%</u>}} of patients.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.50
+<b>MAC</b> is a {{c1::<u>spinal reflex</u>}} endpoint located at the {{c2::<u>dorsal horn</u>}}, not a cortical one. <i>Explains why opioids are MAC-sparing.</i>;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.50
+<b>Opioids</b> reduce MAC by {{c1::<u>50–70%</u>}} via mu-receptor action at the dorsal horn, blunting the nociceptive afferent arc.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.50
+An agent with a <b>high blood:gas coefficient</b> (high solubility) has {{c1::<u>slow</u>}} onset; a <b>low blood:gas coefficient</b> produces {{c2::<u>fast</u>}} onset. <i>Blood drains the alveolus when solubility is high, keeping FA low.</i>;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+<b>End-tidal concentration</b> is a reliable surrogate for brain concentration because brain tension approaches alveolar tension within {{c1::<u>8–10 minutes</u>}} of any change.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+In a <b>low cardiac output state</b>, ↓ CO → ↓ alveolar drainage → {{c1::<u>↑ FA</u>}} → {{c2::<u>deeper anaesthesia</u>}} than expected at a given vaporiser setting.;<i>Reduce vaporiser setting proactively in shocked or low-CO patients.</i>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.24
+<b>Isoflurane</b> MAC is {{c1::<u>1.15%</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Isoflurane</b> has a {{c1::<u>pungent</u>}} odour and is an airway irritant; it is {{c2::<u>not suitable</u>}} for inhalational induction.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Isoflurane</b> causes ↓ MAP via ↓ {{c1::<u>SVR</u>}}, with cardiac output {{c2::<u>relatively preserved</u>}} and minimal myocardial depressant effect.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
+<b>Isoflurane</b> ↓ {{c1::<u>cerebral metabolic rate</u>}} with minimal change in CBF or ICP, making it useful in {{c2::<u>neurosurgery</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
+<b>Sevoflurane</b> MAC is {{c1::<u>~2%</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Sevoflurane</b> has a pleasant smell and minimal airway irritation — it is the {{c1::<u>preferred agent</u>}} for inhalational (gas) induction.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Sevoflurane inhalational induction</b> uses {{c1::<u>5–8%</u>}} inspired concentration, achieving sleep in {{c2::<u>1–2</u>}} vital capacity breaths.;<i>SGA/TT placement depth achievable within 3–5 min.</i>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Sevoflurane</b> ↓ BP via ↓ {{c1::<u>SVR</u>}} without a corresponding ↓ in {{c2::<u>cardiac output</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
+<b>Sevoflurane</b> is a potent {{c1::<u>bronchodilator</u>}} and has been used in {{c2::<u>refractory status asthmaticus</u>}} requiring controlled ventilation.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
+<b>Sevoflurane</b> is metabolised to {{c1::<u>Compound A</u>}} by CO2 absorbers, causing potential {{c2::<u>renal tubular toxicity</u>}} at high concentrations or low FGF.;<i>Avoid prolonged low-flow sevoflurane.</i>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.26
+<b>Desflurane</b> MAC is {{c1::<u>6%</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Desflurane</b> has the {{c1::<u>most rapid</u>}} onset and offset of all volatile agents, giving the shortest time to emergence and orientation.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Desflurane</b> is the {{c1::<u>most pungent</u>}} of all volatile agents and is {{c2::<u>not suitable</u>}} for inhalational induction.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+Rapidly ↑ <b>desflurane</b> concentration → sympathetic activation → ↑ {{c1::<u>HR</u>}} and ↑ {{c2::<u>BP</u>}} ± myocardial ischaemia via ↑ plasma noradrenaline and adrenaline.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
+The <b>'Rule of 24' for desflurane</b>: FGF (L/min) × inspired desflurane concentration (%) must be {{c1::<u>< 24</u>}} to avoid sympathetic surge.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.28
+<b>Desflurane</b> produces {{c1::<u>carbon monoxide</u>}} when exposed to {{c2::<u>desiccated CO2 absorbers</u>}}; risk is greatest with desflurane compared with isoflurane and sevoflurane.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.26
+<b>Nitrous oxide (N2O)</b> is an inert, {{c1::<u>inorganic</u>}} gas with a MAC of {{c2::<u>104%</u>}}, meaning it cannot produce GA alone at safe concentrations.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+<b>N2O</b> is {{c1::<u>34×</u>}} more soluble in blood than nitrogen. <i>This underpins both the second gas effect and diffusion hypoxia.</i>;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+The maximum usable concentration of <b>N2O</b> is {{c1::<u>70%</u>}}, as a minimum FiO2 of {{c2::<u>30%</u>}} must be maintained during GA.;<i>Provides approximately 0.7 MAC contribution.</i>;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+<b>N2O</b> recovery time is {{c1::<u>3–10 minutes</u>}} due to its {{c2::<u>low blood solubility</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+At <b>66% N2O</b>, a closed air space expands to {{c1::<u>2×</u>}} its original volume over approximately {{c2::<u>15 minutes</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.27
+All {{c1::<u>halogenated volatile</u>}} agents (isoflurane, sevoflurane, desflurane) are contraindicated in <b>malignant hyperthermia (MH)</b> susceptibility; use {{c2::<u>TIVA</u>}} instead.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.26
+Risk of <b>CO production</b> with desiccated CO2 absorbers, in descending order: {{c1::<u>desflurane >> isoflurane > sevoflurane</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.26
+<b>Isoflurane, sevoflurane, and desflurane</b> all cause {{c1::<u>dose-dependent uterine relaxation</u>}}, which is clinically relevant in {{c2::<u>obstetrics and uterine surgery</u>}}.;;anzca::primary::anaesthetic_agents::inhalational anzca::code::BT_GS_1.25
