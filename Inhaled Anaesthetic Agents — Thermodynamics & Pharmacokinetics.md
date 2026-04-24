@@ -19,6 +19,13 @@ The clinical effect of an inhaled agent is determined by its partial pressure (P
 - **Partition coefficient** is the quantitative expression of solubility: the ratio of concentrations in two phases at equilibrium (equal PP). The blood:gas partition coefficient (λ) answers: at equal PP, how many more molecules are in blood than in gas?
     - λ = 2.0 → blood holds twice the concentration of agent as alveolar gas at equal PP.
     - λ = 0.47 (N₂O) → blood holds less than half the concentration as alveolar gas.
+> [!Hint]
+> The blood:gas partition coefficient is the quantitative measure of the solubility of the agent in blood relative to alveolar gas. It answers the question: at equilibrium, for every molecule in the alveolar gas phase, how many are dissolved in blood?
+> 
+> So when someone says an agent has high solubility in blood, they mean the blood:gas coefficient is high — the two statements are interchangeable.
+> 
+> The reason both terms exist is that "solubility" is the conceptual description and the partition coefficient is the numerical expression of it. Solubility tells you the principle; the partition coefficient gives you the number.
+
 - **Henry's law**: at constant temperature, the concentration of a dissolved gas in a liquid is directly proportional to its PP above the liquid. The proportionality constant (Henry's law constant) is specific to each gas–liquid pair and changes with temperature. It is functionally equivalent to solubility.
 - Solubility is analogous to thermal mass (specific heat capacity): a medium with high solubility absorbs large amounts of gas before its PP rises, just as a substance with high thermal mass absorbs large amounts of heat before its temperature rises.
 
