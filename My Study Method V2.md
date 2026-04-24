@@ -60,6 +60,7 @@ Return the concept notes as a single markdown document using the horizontal rule
 - One concept per note. If a passage contains two distinct ideas, create two notes.
 - If multiple non-adjacent highlights support the same concept, merge them into one note.
 - Rewriting must be minimal and faithful. Keep the source text's terminology, phrasing, and level of detail. The goal is readability, not paraphrasing.
+- Include any adjacent user written notes, and process them with the highlights
 - Do not add explanations, annotations, or commentary. The user will add their own annotations later.
 - Do not omit or summarise any highlight content. Every highlighted passage must appear in at least one concept note.
 
