@@ -28,12 +28,20 @@ The clinical effect of an inhaled agent is determined by its partial pressure (P
 
 - **Henry's law**: at constant temperature, the concentration of a dissolved gas in a liquid is directly proportional to its PP above the liquid. The proportionality constant (Henry's law constant) is specific to each gas–liquid pair and changes with temperature. It is functionally equivalent to solubility.
 - Solubility is analogous to thermal mass (specific heat capacity): a medium with high solubility absorbs large amounts of gas before its PP rises, just as a substance with high thermal mass absorbs large amounts of heat before its temperature rises.
+### Fick's Law — Alveolar-Arterial (Pulmonary) Gas Uptake
 
-### Diffusion Across Membranes (Fick's Law)
-- Gases cross membranes (including the blood–brain barrier) by dissolving into the lipid bilayer, traversing it, and dissolving out the other side.
-- Net flux is proportional to the PP gradient across the membrane — not the concentration gradient.
+- Gases cross membranes by dissolving into the lipid bilayer and out the other side.
+- Net flux is driven by the **PP gradient**, not the concentration gradient.
 - Equilibrium is reached when PP equalises on both sides. At this point concentrations may differ substantially, determined by the relative solubilities of each compartment.
-- The brain equilibrates to the PP presented by arterial blood. It responds to the PP signal delivered — not to the absolute amount of agent in blood.
+- The brain responds to the PP signal in arterial blood — not the absolute amount of agent.
+#### Uptake = λ × Q̇ × (P<sub>A</sub> − P<sub>v</sub>)
+
+- **λ** — solubility (blood:gas partial coefficient). How avidly blood absorbs agent per unit PP difference.
+	- *blood:gas partial coefficient* is a numerical representation of the concept solubility.
+	- (e.g. halothane λ ~2.4 vs desflurane λ ~0.45).
+- **Q̇** — cardiac output. The dominant multiplier; ↓ CO → ↓ total uptake → F<sub>A</sub> climbs.
+- **P<sub>A</sub> − P<sub>v</sub>** — driving gradient. Maximal at induction (P<sub>v</sub> ≈ 0); narrows as tissues load.
+- See [Low Cardiac Output State](Inhalational%20Anaesthetic%20Agents.md#Low%20Cardiac%20Output%20State)
 
 ## Pharmacokinetics of Inhaled Agents
 
