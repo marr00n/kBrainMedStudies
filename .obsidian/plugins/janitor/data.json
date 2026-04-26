@@ -13,5 +13,13 @@
   "processExpired": false,
   "processBig": false,
   "honorObsidianExcludedFiles": true,
-  "excludedFilesFilters": []
+  "excludedFilesFilters": [
+    "00 - sources/",
+    "04 - anki/",
+    "02 - canvas/",
+    "claude.md",
+    "settings.json",
+    "Launch-Claude.command",
+    "readme.md"
+  ]
 }
