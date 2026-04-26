@@ -1,6 +1,7 @@
 [
   "obsidian-style-settings",
-  "editing-toolbar",
   "notebook-navigator",
-  "lazy-plugins"
+  "lazy-plugins",
+  "editing-toolbar",
+  "janitor"
 ]
