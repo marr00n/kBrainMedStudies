@@ -1,3 +1,9 @@
+---
+Created Date: "2026-04-26"
+organ:
+specialty:
+tags: [Anaesthetics, Medicine]
+---
 The clinical effect of an inhaled agent is determined by its partial pressure (PP) at the effect site (brain). Understanding uptake and distribution requires a grasp of three foundational physical concepts: PP, concentration, and solubility. These are distinct but related quantities, and confusing them leads to confusion about induction speed, the second gas effect, and compartment kinetics.
 
 ## Foundational Physical Concepts
