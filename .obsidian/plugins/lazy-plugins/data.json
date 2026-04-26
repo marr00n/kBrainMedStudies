@@ -3,7 +3,7 @@
   "showConsoleLog": false,
   "desktop": {
     "shortDelaySeconds": 3,
-    "longDelaySeconds": 10,
+    "longDelaySeconds": 8,
     "delayBetweenPlugins": 40,
     "defaultStartupType": "short",
     "showDescriptions": true,
@@ -64,7 +64,7 @@
         "startupType": "long"
       },
       "todo-sort": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "quick-explorer": {
         "startupType": "long"
@@ -82,7 +82,7 @@
         "startupType": "long"
       },
       "remove-newlines-kiran": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-linter": {
         "startupType": "short"
@@ -94,10 +94,10 @@
         "startupType": "short"
       },
       "obsidian-git": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-annotator": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "pdf-plus": {
         "startupType": "short"
