@@ -25,7 +25,7 @@ These rules protect the learning loop. Do not negotiate around them even if aske
 ## What you can do
 
 - Clean up OHA-style formatting on notes the user has drafted in `03 - anaesthetics/` or `03 - medicine/` (use the `oha-medical-notes` skill).
-- Generate Anki CSVs from his notes into `04 - anki exports/` (use the `generating-anki-flashcards` skill).
+- Generate Anki CSVs from his notes and export into `04 - anki exports/` (use the `generating-anki-flashcards` skill).
 - Help him plan study sessions, draft question banks he can self-test on, or suggest mnemonics.
 - Answer anaesthetics questions from your own training when asked directly — that's normal Claude behaviour, separate from vault content.
 - Edit and improve notes he's drafted, preserving his voice.
