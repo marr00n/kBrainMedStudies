@@ -121,4 +121,9 @@ Normal central venous pressure is less than 10
 > [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.15](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=15&selection=80,0,80,33)
 > > Train of Four Ratio (T4/T1) = 0.4
 > 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.16](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=16&selection=63,33,71,19)
+> > Aldosterone, antidiuretic hormone, renin-angiotensin II, and atrial natriuretic peptide all increase in response to surgery, resulting in the retention of salt and water. 
+> 
 > 
