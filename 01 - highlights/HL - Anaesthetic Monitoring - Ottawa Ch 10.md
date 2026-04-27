@@ -21,6 +21,21 @@ source:
 >
 
 > [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=4&selection=98,0,126,7)
-> > Causes of a right shift include an increase in: Conditions that Increase 2,3 DPG: Uremia Cirrhosis Hypoxemia / Anemia Conditions that Decrease 2,3 DPG: Hypophosphatemia Banked blood Acidosis H+ Temperature PaCO2 2,3 DPG
+> > Conditions that Increase 2,3 DPG:
+> > - Uremia Cirrhosis Hypoxemia / Anemia
+> > 
+> > Conditions that Decrease 2,3 DPG:
+> > - Hypophosphatemia Banked blood Acidosis 
+> > 
+> > Causes of a right shift include an increase in: 
+> > - H+ Temperature PaCO2 2,3 DPG
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.4](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=4&selection=21,43,27,45)
+> > More than 85% of ischemic events occurring in the left ventricle during surgery can be detected by monitoring the ST segments of leads II and V5
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=6&selection=71,6,75,46)
+> > The arterial waveform provides beat to beat information that can be used to assess the intravascular volume status of the patient
 > 
 > 
