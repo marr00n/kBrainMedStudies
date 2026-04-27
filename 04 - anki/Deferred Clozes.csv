@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+#tags column:3
+#columns:Text;Extra;Tags
+#notetype:_Cloze - DecEyeStrain
+OxyHb dissociation curve — causes of a <b>right shift</b>?	<ul><li>↑ H<sup>+</sup> (acidosis)</li><li>↑ Temperature</li><li>↑ PaCO<sub>2</sub></li><li>↑ 2,3-DPG</li></ul>	anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
+2,3-DPG — conditions that <b>increase</b> it?	<ul><li>Uraemia</li><li>Cirrhosis</li><li>Hypoxaemia / anaemia</li></ul>	anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
+2,3-DPG — conditions that <b>decrease</b> it?	<ul><li>Hypophosphataemia</li><li>Banked blood</li><li>Acidosis</li></ul>	anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
