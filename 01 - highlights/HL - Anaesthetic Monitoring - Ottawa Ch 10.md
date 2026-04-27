@@ -44,4 +44,56 @@ There are Beat to beat swings that change with respiration as the change in thor
 > [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=6&selection=111,0,117,28)
 > > A central venous pressure (CVP) catheter provides an estimate of the right atrial and right ventricular pressures.
 > 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=6&selection=199,23,203,37)
+> >  pulmonary artery catheter (PAC) passes through the right atrium
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=7&selection=3,1,18,28)
+> > nd right ventricle and rests in a branch of one of the pulmonary arteries (see Fig. 10.6). Inflation of a small balloon at the tip of the catheter allows occlusion of the proximal pulmonary artery and measurement of the distal pressure. This distal (back) pressure is referred to as the pulmonary artery (or capillary) wedge pressure (PCWP) 
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.7](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=7&selection=20,33,22,33)
+> > and reflects the left atrial filling pressure.
+> 
+>
+normal pulmonary artery pressure is between 10 and 20.
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.9](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=9&selection=107,41,113,43)
+> > inadequate anesthesia is suggested by hypertension, tachycardia, tearing, or sweating.
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.12](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=12&selection=54,3,55,1)
+> >  bispectral Index (BIS™) monitor 
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.12](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=12&selection=66,2,76,18)
+> >  analyze the electroencephalogram (EEG) signal. A complex algorithm processes the EEG signal and provides the clinician with a single number as a measure of anesthetic depth. The value reported ranges from 0 = a silent EEG to 100 = fully awake.
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.12](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=12&selection=78,5,80,42)
+> > al) recommends a value of 40 – 60 as an appropriate level for general anesthesi
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=6,8,17,15)
+> > ETCO2 value is a function of the CO2 production, alveolar ventilation, and pulmonary circulation
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=19,0,42,30)
+> > During general anesthesia, the PaCO2 to ETCO2 gradient is typically about 5 mmHg. In the absence of significant ventilation perfusion abnormalities and gas sampling errors, an ETCO2 value of 35 mmHg will correspond to a PaCO2 value of approximately 40 mmHg
+
+Normal end tidal carbon dioxide tension is 33 to 45 mg mercury.
+Normal central venous pressure is less than 10
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.11](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=11&selection=23,0,26,1)
+> > Mean arterial pressure (MAP) MAP = DBP + 1/3(SBP – DBP)
+> 
 > 
