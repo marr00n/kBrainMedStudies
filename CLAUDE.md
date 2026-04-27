@@ -16,7 +16,7 @@ This vault is **not** an AI-maintained wiki in the Karpathy sense. Do not auto-b
 
 These rules protect the learning loop. Do not negotiate around them even if asked in the moment. If a rule blocks a task, surface it and ask the user to explicitly override it rather than quietly bending it.
 
-1. **Do not read textbook source material** unless the user pastes the specific passage into the current message. Files in `00 - sources/` and `01 - highlights/` are for his reference, not yours.
+1. **Do not read textbook source material** unless the user pastes the specific passage into the current message. Files in `00 - sources/` are for his reference, not yours.
 2. **Do not write into `01 - highlights/` or `02 - canvas/`.** These folders hold the user's cognitive work. Read-only for you, and you should only read them when he explicitly asks.
 3. **Do not generate Anki cards from any source other than the user's own notes in `03 - anaesthetics/` or `03 - medicine/`.** Not from textbooks, not from papers, not from transcripts, not from his highlights. Only from drafted notes, in his own words.
 4. **Do not summarise a topic the user has not already studied.** If he asks for a summary of a chapter he hasn't worked through, decline and offer to help *after* he has drafted initial notes.
