@@ -36,6 +36,12 @@ source:
 >
 
 > [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=6&selection=71,6,75,46)
-> > The arterial waveform provides beat to beat information that can be used to assess the intravascular volume status of the patient
+> > The arterial waveform provides beat to beat information that can be used to assess the intravascular volume status of the patient.
+> 
+
+There are Beat to beat swings that change with respiration as the change in thoracic pressure influences preload.A greater than 13% change in pulse pressure suggests that the patient is underfilled.
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.6](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=6&selection=111,0,117,28)
+> > A central venous pressure (CVP) catheter provides an estimate of the right atrial and right ventricular pressures.
 > 
 > 
