@@ -1,0 +1,13 @@
+#separator:Semicolon
+#html:true
+#tags column:3
+#columns:Text;Extra;Tags
+#notetype:_Cloze - DecEyeStrain
+Non-depolarising NMBAs act as {{c1::<u>competitive antagonists</u>}} at {{c2::<u>nicotinic ACh receptors</u>}} on the motor endplate → prevent ACh binding → no endplate depolarisation → no muscle contraction.;;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.36
+At the NMJ, arrival of an action potential at the axon terminal causes {{c1::<u>Ca²⁺ influx</u>}} → vesicle fusion → ACh release into the synaptic cleft.;;anzca::primary::muscular::physiology anzca::code::BT_GS_1.35
+ACh binds muscle nicotinic receptors → opens {{c1::<u>Na⁺ channels</u>}} → muscle {{c2::<u>depolarisation</u>}} → contraction. <i>NMBAs block this final step.</i>;;anzca::primary::muscular::physiology anzca::code::BT_GS_1.35
+ACh in the synaptic cleft is rapidly broken down by {{c1::<u>acetylcholinesterase</u>}}. <i>Anticholinesterases exploit this to reverse non-depolarising block.</i>;;anzca::primary::muscular::physiology anzca::code::BT_GS_1.35
+NMBAs have no intrinsic {{c1::<u>sedative, amnesic, or analgesic</u>}} effects — {{c2::<u>consciousness</u>}} and {{c3::<u>pain perception</u>}} are unaffected by paralysis.;;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.36
+In severe ARDS, NMBAs reduce {{c1::<u>chest wall tone</u>}} → ↓ {{c2::<u>intrathoracic pressure</u>}} → improved ventilation. <i>One of the key ICU indications.</i>;;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.47
+Patients receiving NMBAs require regular {{c1::<u>eye care</u>}} due to absent {{c2::<u>blink reflex</u>}}, risking {{c3::<u>corneal injury</u>}}.;;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.36
+Before commencing NMBAs in ICU, exhaust {{c1::<u>sedation, analgesia, and ventilator optimisation</u>}} first. <i>NMBAs do not treat the underlying cause of distress.</i>;;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.47

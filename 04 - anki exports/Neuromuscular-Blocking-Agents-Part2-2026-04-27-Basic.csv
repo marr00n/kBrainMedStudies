@@ -1,0 +1,8 @@
+#separator:Semicolon
+#html:true
+#tags column:3
+#columns:Front;Back;Tags
+#notetype:_Basic - DecEyeStrain
+<b>NMBA choice</b> — by clinical context?;<b>RSI:</b> suxamethonium or rocuronium<br><b>ICU infusion:</b> cisatracurium (preferred)<br><b>Organ failure:</b> atracurium or cisatracurium (Hofmann elimination)<br><b>Avoid suxamethonium</b> if ↑ hyperkalaemia risk (burns, denervation, SCI >24hr, major trauma);anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.47 anzca::code::BT_GS_1.37
+<b>Suxamethonium</b> — contraindications/cautions?;Burns<br>Denervation injuries<br>Neuromuscular disease<br>Spinal cord injury (>24hr post-injury)<br>Severe trauma/crush injury<br>Known hyperkalaemia<br><i>All associated with ACh receptor upregulation → massive K⁺ release on depolarisation</i>;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.38
+<b>Suxamethonium</b> — complications?;Hyperkalaemia → arrhythmias (including cardiac arrest)<br>Malignant hyperthermia;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.38
