@@ -1,3 +1,12 @@
+---
+Created Date: 2026-04-27
+organ:
+specialty:
+tags:
+  - Anaesthetics
+  - Medicine
+ankicards:
+---
 Neuromuscular blocking agents (paralytics) prevent skeletal muscle contraction by interfering with transmission at the neuromuscular junction (NMJ). They act at nicotinic acetylcholine (ACh) receptors on the motor endplate. No intrinsic sedative, amnesic, or analgesic effects.
 
 
@@ -5,7 +14,7 @@ Neuromuscular blocking agents (paralytics) prevent skeletal muscle contraction b
 > [!important]
 > Always ensure adequate **anaesthesia + analgesia** before and during paralysis. NMBAs do not affect consciousness or pain.
 
-### Mechanism of action
+### NMBA Mechanism of action
 
 - Competitive antagonism at nicotinic ACh receptors (non-depolarising agents)  
 - Occupy receptor without activation → prevent ACh binding → no endplate depolarisation → no muscle contraction  
@@ -21,9 +30,9 @@ Neuromuscular blocking agents (paralytics) prevent skeletal muscle contraction b
 - Motor nerve action potential propagates via Na⁺ influx (depolarisation)  
 - Arrival at axon terminal → Ca²⁺ influx → vesicle fusion  
 - ACh released into synaptic cleft  
-- ACh binds nicotinic receptors → opens Na⁺ channels → muscle depolarisation  
+- ACh binds muscle's nicotinic receptors → opens Na⁺ channels → muscle depolarisation  
 - ACh rapidly broken down by acetylcholinesterase  
-
+![](../05%20-%20Hide/Media%20&%20Files/Image-7.png)
 ### Clinical effects
 
 - Skeletal muscle paralysis (including respiratory muscles)  
@@ -68,10 +77,3 @@ Neuromuscular blocking agents (paralytics) prevent skeletal muscle contraction b
 - Critical illness myopathy/neuropathy  
 - Masking of seizure activity  
 - Pressure injuries (immobility)
-
-### Key points
-
-- NMBAs block movement, not consciousness  
-- Act at NMJ by preventing ACh-mediated depolarisation  
-- Essential for intubation and selected ICU indications  
-- Require meticulous sedation, monitoring, and supportive care
