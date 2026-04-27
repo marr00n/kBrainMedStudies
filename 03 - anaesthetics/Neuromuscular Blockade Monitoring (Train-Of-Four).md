@@ -1,5 +1,12 @@
-# Neuromuscular blockade monitoring (Train-of-four)
-
+---
+Created Date: "2026-04-27"
+organ:
+specialty:
+tags:
+  - Anaesthetics
+  - Medicine
+ankicards:
+---
 *Source: [ICU Advantage | Train of Four - Peripheral Nerve Stimulation](https://www.youtube.com/watch?v=kqUAgtV3Bb4)*
 
 Peripheral nerve stimulation provides an objective assessment of neuromuscular transmission in patients receiving NMBA infusions. Electrical stimulation of a peripheral nerve → muscle contraction proportional to available (unblocked) nicotinic ACh receptors. Used to titrate NMBA dose and avoid under- or over-paralysis.
