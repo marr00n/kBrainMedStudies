@@ -1,0 +1,15 @@
+#separator:Semicolon
+#html:true
+#tags column:3
+#columns:Front;Back;Tags
+#notetype:_Basic - DecEyeStrain
+<b>Pulse oximetry</b> — which four haemoglobin species does it measure?;<ul><li>OxyHb</li><li>DeoxyHb</li><li>MetHb</li><li>CarboxyHb</li></ul>;anzca::primary::physics anzca::code::BT_SQ_1.6
+Intraoperative monitoring — clinical signs of <b>inadequate anaesthetic depth</b>?;<ul><li>↑ HR</li><li>↑ BP</li><li>Tearing</li><li>Sweating</li></ul>;anzca::primary::anaesthetic_agents::integrated anzca::code::BT_GS_1.51
+OxyHb dissociation curve — causes of a <b>right shift</b>?;<ul><li>↑ H<sup>+</sup> (acidosis)</li><li>↑ Temperature</li><li>↑ PaCO<sub>2</sub></li><li>↑ 2,3-DPG</li></ul>;anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
+2,3-DPG — conditions that <b>increase</b> it?;<ul><li>Uraemia</li><li>Cirrhosis</li><li>Hypoxaemia / anaemia</li></ul>;anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
+2,3-DPG — conditions that <b>decrease</b> it?;<ul><li>Hypophosphataemia</li><li>Banked blood</li><li>Acidosis</li></ul>;anzca::primary::respiratory::physiology::gas_transport anzca::code::BT_PO_1.31
+Capnography — causes of <b>↑ ETCO2</b>? (grouped by mechanism);<b>↑ CO2 production:</b><br>Hyperthermia, sepsis, muscular activity, thyroid storm, malignant hyperthermia<br><br><b>↓ CO2 elimination:</b><br>Hypoventilation, rebreathing;anzca::primary::physics anzca::code::BT_SQ_1.6
+Capnography — causes of <b>↓ ETCO2</b>? (grouped by mechanism);<b>↓ CO2 production:</b><br>Hypothermia, hypometabolism, hypothyroidism<br><br><b>↑ CO2 elimination:</b><br>Hyperventilation, hypoperfusion, embolism;anzca::primary::physics anzca::code::BT_SQ_1.6
+Capnography — ETCO2 is a function of which three variables?;<ul><li>CO<sub>2</sub> production</li><li>Alveolar ventilation</li><li>Pulmonary circulation</li></ul>;anzca::primary::physics anzca::code::BT_SQ_1.6
+Intraoperative urine output — which four hormones ↑ in surgical stress causing salt/water retention?;<ul><li>Aldosterone</li><li>ADH</li><li>Renin–angiotensin II</li><li>ANP</li></ul>;anzca::primary::renal::physiology anzca::code::BT_PO_1.71
+Neuromuscular monitoring — three types of nerve stimulation?;<ol><li>Single twitch</li><li>Train-of-four (TOF)</li><li>Tetanic stimulation</li></ol>;anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.55

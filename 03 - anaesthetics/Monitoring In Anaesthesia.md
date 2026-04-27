@@ -1,3 +1,12 @@
+---
+Created Date: 2026-04-27
+organ:
+specialty:
+tags:
+  - Anaesthetics
+  - Medicine
+ankicards: "true"
+---
 
 Intraoperative monitoring encompasses continuous assessment of oxygenation, ventilation, haemodynamic status, anaesthetic depth, neuromuscular blockade, and end-organ perfusion. Vigilance and interpretation of these parameters are core clinical responsibilities throughout every anaesthetic.
 
