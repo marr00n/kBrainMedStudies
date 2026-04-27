@@ -95,5 +95,30 @@ Normal central venous pressure is less than 10
 
 > [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.11](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=11&selection=23,0,26,1)
 > > Mean arterial pressure (MAP) MAP = DBP + 1/3(SBP – DBP)
+
+![AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&rect=31,398,403,589)
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=74,37,88,22)
+> > This involves the application of two electrodes over an easily accessed peripheral nerve. The ulnar nerve is the most common nerve used for monitoring neuromuscular function during general anesthesia. Other nerves that may be used include the facial nerve and the common peroneal nerve.
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=103,43,113,48)
+> > Up to 70% of the neuromuscular receptors may be blocked by a neuromuscular blocking drug before a change in the twitch height can be observed. When 90% of the receptors are blocked, all observable twitches are eliminated.
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=117,8,127,13)
+> > a single twitch stimulus, four twitch stimuli (each separated by half a second) referred to as a train-of-four (TOF) stimulus, or a continuous stimulus referred to as tetanus stimulation. 
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.14](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=14&selection=141,25,147,31)
+> > Clinical relaxation will occur when a single twitch or first twitch of a TOF stimulus is reduced by 75 - 95% of its original height (see Fig. 10.9)
+> 
+>
+
+> [!PDF|] [AP Ch10 Monitoring In Anaesthesia, p.15](00%20-%20sources/Anaesthetic%20Primer/AP%20Ch10%20Monitoring%20In%20Anaesthesia.pdf#page=15&selection=80,0,80,33)
+> > Train of Four Ratio (T4/T1) = 0.4
 > 
 > 
