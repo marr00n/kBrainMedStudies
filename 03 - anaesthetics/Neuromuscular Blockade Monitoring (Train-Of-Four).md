@@ -1,11 +1,11 @@
 ---
-Created Date: "2026-04-27"
+Created Date: 2026-04-27
 organ:
 specialty:
 tags:
   - Anaesthetics
   - Medicine
-ankicards:
+ankicards: "true"
 ---
 *Source: [ICU Advantage | Train of Four - Peripheral Nerve Stimulation](https://www.youtube.com/watch?v=kqUAgtV3Bb4)*
 

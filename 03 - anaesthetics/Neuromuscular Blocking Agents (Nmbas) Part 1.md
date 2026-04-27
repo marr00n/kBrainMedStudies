@@ -5,7 +5,7 @@ specialty:
 tags:
   - Anaesthetics
   - Medicine
-ankicards:
+ankicards: "true"
 ---
 Neuromuscular blocking agents (paralytics) prevent skeletal muscle contraction by interfering with transmission at the neuromuscular junction (NMJ). They act at nicotinic acetylcholine (ACh) receptors on the motor endplate. No intrinsic sedative, amnesic, or analgesic effects.
 

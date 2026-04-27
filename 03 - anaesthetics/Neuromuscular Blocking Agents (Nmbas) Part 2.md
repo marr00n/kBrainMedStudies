@@ -5,7 +5,7 @@ specialty:
 tags:
   - Anaesthetics
   - Medicine
-ankicards:
+ankicards: "true"
 ---
 NMBAs inhibit transmission at the neuromuscular junction → skeletal muscle paralysis. No analgesia or sedation. Used for tracheal intubation, mechanical ventilation, and surgical relaxation.
 
