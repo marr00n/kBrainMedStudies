@@ -1,9 +1,0 @@
-#separator:Semicolon
-#html:true
-#tags column:3
-#columns:Front;Back;Tags
-#notetype:_Basic - DecEyeStrain
-<b>NMBAs</b> — short-term indications?;Facilitate tracheal intubation (RSI)<br>Optimise surgical conditions (muscle relaxation);anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.47
-<b>NMBAs</b> — ICU / longer-term indications?;↓ Patient-ventilator dyssynchrony (ventilator synchrony)<br>Severe ARDS (↓ chest wall tone → improved ventilation)<br>Control of raised ICP<br>Facilitate intra-abdominal pressure measurement<br>Refractory shivering (e.g. therapeutic hypothermia)<br>↓ O₂ consumption (↓ muscle activity);anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.47
-<b>NMBAs</b> — complications?;Awareness during paralysis (inadequate sedation)<br>Prolonged weakness / ICU-acquired weakness<br>Critical illness myopathy/neuropathy<br>Masking of seizure activity<br>Pressure injuries (immobility);anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.38
-<b>NMBAs</b> — practical considerations before and during use?;Provide deep sedation prior to paralysis<br>Monitor depth of block (TOF / peripheral nerve stimulator)<br>Ensure airway control and ventilatory support<br>Regular eye care (absent blink reflex → corneal injury);anzca::primary::muscular::pharmacology anzca::code::BT_GS_1.36
