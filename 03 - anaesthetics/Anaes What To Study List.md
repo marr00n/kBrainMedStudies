@@ -1,31 +1,52 @@
-- [Quick Reference Handbook](https://anaesthetists.org/Portals/0/PDFs/QRH/QRH_complete_June_2023.pdf?ver=2023-06-23-141011-603) Materials
-- Changes to airway changes in pregnancy and labour
-- morphine 0.05 to 0.1mg per kg
-- [Full tour of the anesthesia machine](https://www.youtube.com/watch?v=P8mijzo5g-Y)
-- Driperidol dosing. 0.625-2.5mg IV
-- ergonetrine 500 microg IM
-- Epidural Morphine 3mg vs 50–75 mcg fentanyl
-- Dosing of epidural and spinal local anaesthetics
-- LAST symptoms e.g. dizziness, tinnitus, metallic taste, perioral numbness, seizures
-- Sedation score
-- Preeclampsia, HELLP
-- West zones
-- DDx of a low SpO2 when intubated
-- ECG
-- APL for anaesthetic machin
-- ABG
-- PROPOFOL sedation
-- How clonidine works
-- Why does caffeine help PDPH?
-- Midodrine action and post op protocol
-- GLP1 periop management
-- 4 phases of anaesthesia
-- RSI ANORIGINAL LADY![](../05%20-%20Hide/Media%20&%20Files/Image%2010.jpg)
-![](../05%20-%20Hide/Media%20&%20Files/Image%209.jpg)
-- [ ] Drug concentration formulations
-- [ ] Common anaesthetic drugs
+# Anaesthetics Study Topics — Ranked by Clinical Priority
+
+## Tier 1: Core daily survival (know cold)
+
+### Airway and induction
 - [ ] Airway assessment
-- [ ] Perioperative medication management (esp diabetes)
-- [ ] HF
+- [ ] RSI (including the obstetric/high-risk patient case)
+- [ ] The Vortex approach
+- [ ] DDx of low SpO2 when intubated
+- [ ] 4 phases of anaesthesia
+- [ ] Full tour of the anaesthesia machine
+- [ ] APL valve function
 
+### Drugs you'll push every list
+- [ ] Common anaesthetic drugs (overview)
+- [ ] Propofol dose (induction + sedation)
+- [ ] Atropine vs glycopyrrolate
+- [ ] Morphine 0.05–0.1 mg/kg
+- [ ] Droperidol 0.625–2.5 mg IV
+- [ ] Drug concentration formulations (mg/mL, dilutions, % solutions)
+- [ ] Risk of anaphylaxis with sux 
 
+### Crisis management
+- [ ] Crisis Reference Handbook (QRH) — navigation and key algorithms
+- [ ] LAST symptoms and management
+
+## Tier 2: Frequent decisions on the ward and in theatre
+
+### Perioperative medicine
+- [ ] Perioperative medication management (especially diabetes)
+- [ ] GLP-1 periop management
+- [ ] Heart failure
+- [ ] Sedation scoring
+- [ ] ABG interpretation
+- [ ] ECG interpretation
+- [ ] Midodrine (action and postop protocol)
+
+### Pharmacology you'll be asked about
+- [ ] Nicotinic vs muscarinic receptors
+- [ ] Clonidine mechanism
+
+## Tier 3: Obstetrics block essentials
+- [ ] Airway changes in pregnancy and labour
+- [ ] Pre-eclampsia and HELLP
+- [ ] Epidural and spinal local anaesthetic dosing
+- [ ] Epidural morphine 3 mg vs fentanyl 50–75 mcg
+- [ ] Ergometrine 500 mcg IM
+- [ ] Why caffeine helps PDPH
+- [ ] West zones (obstetric and thoracic physiology relevance)
+
+## Tier 4: Specific sedation contexts
+- [ ] Propofol sedation (procedural)
