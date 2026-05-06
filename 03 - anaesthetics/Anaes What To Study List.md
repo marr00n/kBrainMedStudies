@@ -1,7 +1,8 @@
 - [ ] I need to know the dose of hydromorphone, Al fentanyl, and fentanyl both for analgesia and induction as well as the milligrams per a mill
 - [ ] Atropine, glycopyrrolate. Same as above.
 - [ ] The epidural dose of local anaesthetic versus the intrathecal dose
-- [ ] Carbertocin dose 
+- [ ] everything in the handbook e.g. Major haemorrhage, mx of preeclampsia and eclampsia
+- [x] Carbertocin dose 
 
 ## Tier 1: Core daily survival (know cold)
 
