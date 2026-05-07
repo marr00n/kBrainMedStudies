@@ -8,7 +8,7 @@
 
 ### Airway and induction
 - [ ] Airway assessment
-- [ ] RSI (including the obstetric/high-risk patient case)
+- [ ] RSI (including the obstetric/high-risk patient c qase)
 - [ ] The Vortex approach
 - [ ] DDx of low SpO2 when intubated
 - [ ] 4 phases of anaesthesia
