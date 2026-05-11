@@ -1,3 +1,6 @@
+> [!note]
+> [How I study Claude Chat](https://claude.ai/share/d5ae7fbb-33bd-430d-aa05-6c80cb4aad79)
+
 - [ ] I need to know the dose of hydromorphone, Al fentanyl, and fentanyl both for analgesia and induction as well as the milligrams per a mill
 - [ ] Atropine, glycopyrrolate. Same as above.
 - [ ] The epidural dose of local anaesthetic versus the intrathecal dose

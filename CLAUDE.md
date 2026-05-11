@@ -2,7 +2,7 @@
 
 ## About the user
 
-Kieran is an ANZCA anaesthetics registrar working toward fellowship. This vault is his active study workspace: highlighted textbook entries, concept-linking canvases, drafted notes, and Anki decks for spaced repetition. Content spans pharmacology, regional anaesthesia, obstetric anaesthesia, cardiac, ECG, exam preparation, and clinical practice topics.
+Kieran is an australian anaesthetics registrar working toward fellowship. This vault is his active study workspace: highlighted textbook entries, concept-linking canvases, drafted notes, and Anki decks for spaced repetition. Content spans pharmacology, regional anaesthesia, obstetric anaesthesia, cardiac, ECG, exam preparation, and clinical practice topics.
 
 He uses British English spelling and macOS.
 
@@ -33,6 +33,7 @@ These rules protect the learning loop. Do not negotiate around them even if aske
 
 ## Folder structure
 
+- A up to date directory map is available in root: `File Map.md
 - `00 - sources/` — Source PDFs, lecture recordings, slides. User-owned. Read only on explicit instruction.
 - `01 - highlights/` — Textbook and paper highlights. User-owned. Do not write here.
 - `02 - canvas/` — Obsidian canvas files linking concepts. User-owned. Do not write here.
