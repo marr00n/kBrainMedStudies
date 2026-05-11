@@ -1,8 +1,4 @@
-# Arterial Blood Gas Interpretation
-
 The ABG provides a real-time window into a patient's acid-base status, respiratory function, and metabolic compensation. Systematic interpretation — applied consistently — prevents errors and unmasks mixed disorders that may be missed on clinical grounds alone.
-
----
 
 ## Key Reference Values
 
@@ -14,8 +10,6 @@ The ABG provides a real-time window into a patient's acid-base status, respirato
 | Base excess (BE) | −2 to +2mmol/L |
 | PaO<sub>2</sub> | 10–13kPa (75–100mmHg) |
 
----
-
 ## The Core Rule: Direction of Effect
 
 Memorise these two relationships before anything else:
@@ -24,8 +18,6 @@ Memorise these two relationships before anything else:
 	- CO<sub>2</sub> and pH move in **opposite** directions.
 - **HCO<sub>3</sub><sup>−</sup> is a base** → HCO<sub>3</sub><sup>−</sup> ↑ → pH ↑; HCO<sub>3</sub><sup>−</sup> ↓ → pH ↓
 	- HCO<sub>3</sub><sup>−</sup> and pH move in the **same** direction.
-
----
 
 ## Step-by-Step Interpretation Algorithm
 
@@ -52,8 +44,6 @@ See below.
 ### Step 5 — Interpret in clinical context
 Correlate with SpO<sub>2</sub>, lactate, electrolytes, and clinical picture.
 
----
-
 ## Compensation Rules
 
 ### Metabolic acidosis → Respiratory compensation (↓ CO<sub>2</sub>)
@@ -79,16 +69,12 @@ Use **Winter's Formula:**
 - In pure respiratory alkalosis with appropriate compensation, HCO<sub>3</sub><sup>−</sup> should be **↓**.
 - If HCO<sub>3</sub><sup>−</sup> is ↑ in the context of ↓ CO<sub>2</sub> → mixed respiratory + metabolic alkalosis.
 
----
-
 ## Identifying Mixed Disorders
 
 - **Compensation** → one parameter is abnormal in a direction that *corrects* the pH.
 - **Mixed disorder** → both CO<sub>2</sub> and HCO<sub>3</sub><sup>−</sup> are abnormal in directions that *worsen* the pH (or both push it the same way in alkalosis).
 
 > Mixed acidosis = ↓ pH + ↑ CO<sub>2</sub> + ↓ HCO<sub>3</sub><sup>−</sup> → both systems driving acidosis. Use Winter's formula to confirm — if actual CO<sub>2</sub> > expected, concurrent respiratory acidosis is present.
-
----
 
 ## The Anion Gap
 
@@ -120,8 +106,6 @@ Used to classify metabolic acidosis once identified. Quantifies unmeasured anion
 - **D**iarrhoea *(HCO<sub>3</sub><sup>−</sup> loss)*
 - **U**reteric diversion
 - **P**ancreatic fistula
-
----
 
 ## Advanced Considerations
 
