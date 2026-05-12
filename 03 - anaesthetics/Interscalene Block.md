@@ -36,3 +36,23 @@ ankicards:
 - Infiltrate about 10mls
 
 Note: posterior port of arthroscopic procedures may fall outside block territory (T2 fibres) → may require supplemental LA infiltration by surgeon
+
+## Side Effects
+*(expected, counsel patients preoperatively)*
+
+| Effect | Mechanism | Frequency |
+|---|---|---|
+| Ipsilateral hemidiaphragm paresis | Phrenic nerve block (C3–5) | Up to 100% |
+| Subjective dyspnoea | ↓ ventilatory reserve | Common |
+| Horner's syndrome (miosis, ptosis, anhidrosis) | Cervical sympathetic chain | Common |
+| Hoarse voice | Recurrent laryngeal nerve block | Occasional |
+| Upper limb motor block | Intended effect | Expected |
+
+## Complications
+
+- **Minor paraesthesiae** — lasting days to weeks; more frequent with this block than other brachial plexus approaches
+- **Intravascular injection** → LAST; vertebral artery immediately medial (see [[**Local anaesthetic systemic toxicity**]])
+- **Intrathecal / epidural injection** → total or high spinal; roots are contiguous with dural sleeves at this level — aspirate carefully, use incremental injection
+- **Pneumothorax** — apex of lung relatively close; more likely with deep or caudad needle trajectory
+- **Neurological injury** — damage to roots directly, or dorsal scapular / long thoracic nerves passing through middle scalene
+- **Vessel puncture** — carotid artery, internal jugular vein, vertebral artery
