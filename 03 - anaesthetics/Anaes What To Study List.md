@@ -5,6 +5,7 @@
 - [ ] Atropine, glycopyrrolate. Same as above.
 - [ ] The epidural dose of local anaesthetic versus the intrathecal dose
 - [ ] everything in the handbook e.g. Major haemorrhage, mx of preeclampsia and eclampsia
+- [ ] Atropine 600 microg
 - [x] Carbertocin dose 
 
 ## Tier 1: Core daily survival (know cold)
